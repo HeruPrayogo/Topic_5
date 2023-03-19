@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Topic_5</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="hello_welcome">Hello, Welcome</string>
+    <string name="register">Register</string>
+    <string name="username1">Username</string>
+    <string name="password">Password</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="register1">Register</string>
+    <string name="login1">Login</string>
+    <string name="username2">USERNAME</string>
+    <string name="password2">Password</string>
+    <string name="login3">Login</string>
+</resources>
